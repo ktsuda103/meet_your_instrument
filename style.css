@@ -1,0 +1,101 @@
+/** 共通 **/
+body{
+    padding-top: 73px;
+    padding-bottom: 100px;
+    position: relative;
+}
+
+.my-card-body{
+    height: 100vh;
+}
+
+.error{
+    color: #ff3333;
+}
+
+.done{
+    color: #ff3333;
+}
+
+.attension{
+    color: red;
+}
+
+.title{
+    padding: 10px 0px;
+    font-size: 30px;
+    color: #808080;
+
+}
+
+ul{
+    list-style: none;
+}
+
+/** カード **/
+.card{
+    margin: 0px;
+    padding: 0px;
+}
+
+.icon{
+    border: none;
+}
+
+.icon-image{
+    height: 120px; 
+    border:1px solid #ccc; 
+    margin-bottom: 20px;
+}
+
+.item-image{
+    height: 100px;
+    object-fit: contain;
+}
+
+.big-item-image{
+    object-fit: contain; 
+    height: 30vh;
+}
+
+/** ログイン画面 **/
+.welcome_message{
+    color: #ff3333;
+    font-size: 24px;
+}
+
+/** メッセージ画面 **/
+
+.message{
+    color: #c0c0c0;
+}
+
+.comment{
+    font-size: 24px;
+}
+
+.createdatetime{
+    font-size: 14px;
+    position: absolute;
+    bottom: 0;
+}
+
+/** ユーザー情報 **/
+table{
+    width: 100%;
+}
+td{
+    width: 50%;
+}
+
+.footer {
+    border-top: 1px solid #c0c0c0;
+    position: absolute;
+    bottom: 0;
+    height: 30px;
+    width: 100%;
+}
+
+.footer p{
+    padding: 20px;
+}
