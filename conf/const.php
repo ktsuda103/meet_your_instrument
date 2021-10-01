@@ -1,5 +1,5 @@
 <?php
-define('DB_NAME', 'onlineShop'); //DBの名前
+define('DB_NAME', 'meet_your_instrument'); //DBの名前
 define('DB_USER', 'root'); //DBのユーザ名
 define('DB_PASSWORD', 'root'); //DBのパスワード
 define('DSN', 'mysql:dbname='.DB_NAME.';host=localhost;charset=utf8'); //Mysqlのdsn
