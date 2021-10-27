@@ -10,6 +10,28 @@ meet_your_instrumentでは、そんなあなたに楽器と出逢う機会を与
 ## アプリURL
 https://meet-your-instrument.herokuapp.com/
 
+**バックエンド**<br>
+・PHP 7.3<br>
+
+**フロントエンド**<br>
+・HTML<br>
+・CSS<br>
+・JavaScript<br>
+・Bootstrap 4<br>
+
+**データベース**<br>
+・mySQL5.7<br>
+
+**インフラ**<br>
+・MAMP（開発環境）<br>
+・Heroku（本番環境）<br>
+・Amazon S3<br>
+
+
+## ER図
+<img width="1067" alt="スクリーンショット 2021-10-10 15 22 06" src="https://user-images.githubusercontent.com/86056191/136685071-7454018f-e889-42dc-a20e-15c0ff1c41cc.png">
+
+
 ## アプリ概要
 どんなアプリ？
 <img width="1053" alt="スクリーンショット 2021-10-10 14 54 10" src="https://user-images.githubusercontent.com/86056191/136684245-6aa05ab4-5cc6-4434-805c-5200024322fa.png">
@@ -18,19 +40,6 @@ https://meet-your-instrument.herokuapp.com/
 ※学習のため、素のPHPとSQLで製作しています。<br>
 Laravelを使用したものは[こちら](https://github.com/ktsuda103/meet_your_instrument_laravel)
 
-**バックエンド**<br>
-・PHP 7.3<br>
-
-**フロントエンド**<br>
-・HTML<br>
-・CSS<br>
-・Bootstrap 4<br>
-
-**データベース**<br>
-・mySQL5.7<br>
-
-## ER図
-<img width="1067" alt="スクリーンショット 2021-10-10 15 22 06" src="https://user-images.githubusercontent.com/86056191/136685071-7454018f-e889-42dc-a20e-15c0ff1c41cc.png">
 
 
 
